@@ -1,11 +1,11 @@
-BATTLE_BOT=minimax
+BATTLE_BOT=mcts
 WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
-# PS_USERNAME=MyUsername
-# PS_PASSWORD=MyPassword
-BOT_MODE=SEARCH_LADDER
-POKEMON_MODE=gen7randombattle
+# PS_USERNAME=Pokemaster0028
+# PS_PASSWORD=Id#012208?
+BOT_MODE=CHALLENGE_USER
+POKEMON_MODE=gen8nationaldexag
 RUN_COUNT=1
 
-USER_TO_CHALLENGE=SomeOtherPerson
-TEAM_NAME=gen8/ou/clef_sand
+USER_TO_CHALLENGE=Cyberbit07_
+TEAM_NAME=gen8/nationaldexag/foul_play
 SAVE_REPLAY=Never
